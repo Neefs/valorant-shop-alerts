@@ -1,0 +1,3 @@
+take the data from t.json write a function to get the name of the items in the players shop and add it to a list. A list for each shop (featured, normal, accessories)
+
+
