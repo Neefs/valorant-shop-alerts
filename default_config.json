@@ -1,0 +1,14 @@
+{
+    "discordWebhookUrl": "Enter discord webhook url",
+    "accounts": [
+        {
+            "username": "username",
+            "password": "password"
+        },
+        {
+            "username": "username2",
+            "password": "password2"
+        }
+    ],
+    "flaggedItems": []
+}
