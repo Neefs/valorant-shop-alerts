@@ -57,7 +57,7 @@ def update_webhook():
 
 
 def view_accounts():
-    print("\n".join([username for username, password in config["accounts"]]))
+    print("\n".join([acc["username"] for acc in config["accounts"]]))
     anything_else()
 
 
