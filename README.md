@@ -2,6 +2,10 @@
 This will send you a notification when a checked item is in your store.
 This is in very very early development.
 
+## Images
+![image](https://r2.e-z.host/a7e95a7a-3c83-4100-b82b-75696f51113b/qyn5fkwx.png)
+![image](https://r2.e-z.host/a7e95a7a-3c83-4100-b82b-75696f51113b/4mvtlhi0.png)
+
 # License
 
 Copyright (c) 2023 Neefs
